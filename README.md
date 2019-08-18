@@ -1,4 +1,4 @@
-# webassemblytests
+# webassemblytests (Emscripten)
 
 WebAssembly talk :
 https://www.youtube.com/watch?v=qDTpLKJ6e4M&t=124s
